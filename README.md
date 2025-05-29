@@ -12,7 +12,7 @@ import os
 from tqdm.asyncio import tqdm_asyncio
 
 HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/119.0.0.0 Safari/537.36 SensitiveKeyScanner/2.0"
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/119.0.0.0 Safari/537.36 HackeroneBugbountytest"
 }
 
 PATTERNS = {
